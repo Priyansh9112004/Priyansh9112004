@@ -1,6 +1,6 @@
 # Hi 👋, I'm Priyansh Agarwal
 
-## 📊 Aspiring Data Analyst
+## 📊 Data Analyst
 
 Turning raw data into meaningful business insights through analytics and visualization.
 
