@@ -1,38 +1,93 @@
-# Hi 👋, I'm Priyansh Agarwal
+<h1 align="center">Hi 👋, I'm Priyansh Agarwal</h1>
+<h3 align="center">Aspiring Data Analyst from India</h3>
 
-## 📊 Data Analyst
+<p align="center">
+Turning raw data into actionable business insights through analytics, visualization and storytelling.
+</p>
 
-Turning raw data into meaningful business insights through analytics and visualization.
+---
 
-### 🚀 Skills
+## 🚀 About Me
 
+- 📊 Aspiring Data Analyst
+- 📈 Passionate about Data Analytics & Business Intelligence
+- 🌱 Currently improving my skills in Power BI, SQL, Excel & Python
+- 💡 Interested in Dashboard Development, Data Visualization & Business Insights
+- 📍 Alwar, Rajasthan, India
+
+---
+
+## 🛠️ Skills & Tools
+
+### Data Analytics
 - Power BI
 - SQL
 - Excel
 - Python
 - Data Cleaning
 - Data Visualization
-- Dashboard Development
+- Business Analysis
 
-### 📂 Featured Projects
+### Database
+- MySQL
 
-#### 📈 Ola Sales Performance Dashboard
-Power BI dashboard analyzing ride bookings, revenue, cancellations and customer behavior.
+### Programming
+- Python
+- HTML
+- CSS
+- JavaScript
 
-#### 👨‍💼 HR Analytics Dashboard
-Employee attrition analysis with workforce insights and KPI tracking.
+### Tools
+- Git
+- GitHub
+- VS Code
 
-#### 🏏 Rohit Sharma Career Analysis Dashboard
-Interactive dashboard analyzing career statistics and performance trends.
+---
 
-#### 🛒 E-Commerce Recommendation System
-Customer segmentation and recommendation analysis using data analytics techniques.
+## 📂 Featured Projects
 
-### 📫 Connect With Me
+### 📈 Ola Sales Performance Dashboard
+- Built an interactive Power BI dashboard
+- Analyzed ride bookings, cancellations and revenue
+- Identified customer and operational trends
+
+### 👨‍💼 HR Analytics Dashboard
+- Employee attrition analysis
+- Workforce performance tracking
+- HR KPI monitoring dashboard
+
+### 🏏 Rohit Sharma Career Analysis Dashboard
+- Cricket statistics analysis
+- Interactive performance visualizations
+- Career trend insights
+
+### 🛒 E-Commerce Recommendation Project
+- Customer segmentation
+- Product recommendation analysis
+- Data-driven customer insights
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- DAX in Power BI
+- Data Storytelling
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a professional Data Analyst and help businesses make better decisions through data-driven insights and visualization.
+
+---
+
+## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/priyansh-agarwal447
 - GitHub: github.com/Priyansh9112004
 
-### 📍 Location
+---
 
-Alwar, Rajasthan, India
+⭐ If you like my work, feel free to explore my repositories and connect with me.
