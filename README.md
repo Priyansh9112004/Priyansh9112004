@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyansh Agarwal</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3>
+<h3 align="center">Data Analyst from India</h3>
 
 <p align="center">
 Turning raw data into actionable business insights through analytics, visualization and storytelling.
@@ -9,7 +9,7 @@ Turning raw data into actionable business insights through analytics, visualizat
 
 ## 🚀 About Me
 
-- 📊 Aspiring Data Analyst
+- 📊 Data Analyst
 - 📈 Passionate about Data Analytics & Business Intelligence
 - 🌱 Currently improving my skills in Power BI, SQL, Excel & Python
 - 💡 Interested in Dashboard Development, Data Visualization & Business Insights
