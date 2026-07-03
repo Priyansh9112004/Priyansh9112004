@@ -86,7 +86,8 @@ My goal is to become a professional Data Analyst and help businesses make better
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/priyansh-agarwal447
-- GitHub: github.com/Priyansh9112004
+- GitHub: www.github.com/Priyansh9112004
+- Portfolio: https://portfolio-rust-three-m4oh4yq5ev.vercel.app/
 
 ---
 
